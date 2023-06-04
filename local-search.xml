@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2023/06/04/README/"/>
+    <url>/2023/06/04/README/</url>
+    
+    <content type="html"><![CDATA[<h1 id="meanshift-matlab"><a href="#meanshift-matlab" class="headerlink" title="meanshift_matlab"></a>meanshift_matlab</h1><p>An open-source implementation of meanshift clustering implementation for MATLAB&#x2F;Octave.</p><p>This is an improved version of the meanshift implementation appears in MATLAB File Exchange. The support for arbitary kernel is added.</p><p>Copyright 2015 Han Gong <a href="mailto:&#103;&#111;&#x6e;&#103;&#64;&#102;&#x65;&#x64;&#x6f;&#x72;&#97;&#112;&#x72;&#111;&#106;&#101;&#99;&#116;&#46;&#111;&#114;&#103;">&#103;&#111;&#x6e;&#103;&#64;&#102;&#x65;&#x64;&#x6f;&#x72;&#97;&#112;&#x72;&#111;&#106;&#101;&#99;&#116;&#46;&#111;&#114;&#103;</a>, University of East Anglia</p><p>Copyright 2006 Bryan Feldman</p><p>References:</p><p>Fukunaga, Keinosuke, and Larry D. Hostetler. “The estimation of the gradient of a density function, with applications in pattern recognition.” Information Theory, IEEE Transactions on 21.1 (1975): 32-40.</p><p>MATLAB&#x2F;Octave Code: see demo.m for demonstration.</p><p>Results:</p><p><img src="http://cs.bath.ac.uk/~hg299/meanshift.png" alt="Image of Clustering"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/10/31/hello-world/"/>
     <url>/2022/10/31/hello-world/</url>
